@@ -1,0 +1,3 @@
+marimo
+scikit-learn
+matplotlib
